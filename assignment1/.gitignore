@@ -1,0 +1,3 @@
+pyrightconfig.json
+datasets/*
+!datasets/.gitkeep
