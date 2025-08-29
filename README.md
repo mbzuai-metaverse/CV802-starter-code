@@ -1,0 +1,1 @@
+Guys, lets us `uv` to manage the environment with `uv sync` to config the environment.

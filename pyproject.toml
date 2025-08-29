@@ -1,0 +1,11 @@
+[project]
+name = "CV802"
+version = "0.1.0"
+description = "Codebase for course CV802"
+requires-python = "==3.10.*"
+
+dependencies = [
+    "open3d==0.18.0",
+    "numpy==1.26.1",
+]
+
